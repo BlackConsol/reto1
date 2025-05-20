@@ -86,7 +86,7 @@ El resultado es un programa interactivo en consola que simula un sistema básico
     <table>
   <tr>
     <td align="center">
-      <img src="./assets/resultado1.webp" width="200" high="200" title="resultados ejercicio reto 1 java" alt="java"><br>
+      <img src="./assets/file_00000000e7dc61f89ce403894459d342.webp" width="200" high="200" title="resultados ejercicio reto 1 java" alt="java"><br>
       <p><strong>Resultado Reto#1</strong></p>
       <a href="https://github.com/BlackConsol/reto1/blob/main/reto1/desarrollo.java" title="ir al recurso">
         <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" title="Ver en GitHub" alt="Enlace a GitHub">

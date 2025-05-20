@@ -1,7 +1,12 @@
 <h1 align="center">🎯 Reto de Métodos #1</h1>
 
+
 <p align="left">
 ¡Bienvenido al primer reto de programación orientado al uso de métodos en Java! Este ejercicio está diseñado para fortalecer la comprensión de cómo se estructuran, invocan y aplican los métodos dentro de un programa con lógica interactiva.
+</p>
+
+<p align="center">
+   <img src="./assets/reto1.webp" width="600" title="reto#1" alt="java">
 </p>
 
 ---

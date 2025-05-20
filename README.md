@@ -1,3 +1,4 @@
+<br>
 <h1 align="center">🎯 Reto de Métodos #1</h1>
 
 
@@ -9,8 +10,8 @@
    <img src="./assets/reto1.webp" width="600" title="reto#1" alt="java">
 </p>
 
----
-
+</br>
+<br>
 <h2 align="left">🎮 Que comience el juego</h2>
 
 <p align="left"><strong>Reto 1</strong></p>
@@ -25,9 +26,9 @@ Una persona retó a un estudiante de ingeniería de sistemas a desarrollar un pr
   <li>Acceder a un portal de trabajo.</li>
   <li>Permitir el acceso al portal de trabajo únicamente si se ha creado una cuenta previamente.</li>
 </ul>
+</br>
 
----
-
+<br>
 <h2 align="left">🛠️ ¿Cómo lo podemos solucionar?</h2>
 
 <p align="left">Para dar solución a este reto, nos hacemos las siguientes preguntas:</p>
@@ -77,6 +78,7 @@ El resultado es un programa interactivo en consola que simula un sistema básico
   <li>Si el usuario accede al portal y tiene cuenta, puede aplicar a distintas ofertas laborales.</li>
   <li>El programa continúa ejecutándose en bucle mientras el usuario lo desee.</li>
 </ol>
+</br>
 
 <br>
 <div id="Proyectos">
@@ -97,8 +99,8 @@ El resultado es un programa interactivo en consola que simula un sistema básico
 </br>
 
 
----
-
+<br>
 <p align="center">
 💡 Este reto es una excelente introducción al uso de métodos en Java y su aplicación práctica en programas orientados al usuario. Fomenta el pensamiento estructurado y la organización del código según sus funcionalidades.
 </p>
+</br>

@@ -78,6 +78,25 @@ El resultado es un programa interactivo en consola que simula un sistema básico
   <li>El programa continúa ejecutándose en bucle mientras el usuario lo desee.</li>
 </ol>
 
+<br>
+<div id="Proyectos">
+<h2 align="center">Resultado</h2>
+    <table>
+  <tr>
+    <td align="center">
+      <img src="./assets/reto1.webp" width="200" title="metodos en java" alt="java"><br>
+      <p><strong>Resultado Reto#1</strong></p>
+      <a href="https://github.com/BlackConsol/metodos" title="ir al recurso">
+        <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" title="Ver en GitHub" alt="Enlace a GitHub">
+      </a>
+    </td>
+  </tr>
+</table>
+</div>
+
+</br>
+
+
 ---
 
 <p align="center">

@@ -95,8 +95,8 @@ El resultado es un programa interactivo en consola que simula un sistema básico
   </tr>
 </table>
 </div>
-
-<p align="center">
+<br>
+<p align="lef">
 💡 Este reto es una excelente introducción al uso de métodos en Java y su aplicación práctica en programas orientados al usuario. Fomenta el pensamiento estructurado y la organización del código según sus funcionalidades.
 </p>
 

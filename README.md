@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-   <img src="./assets/reto1.webp" width="600" title="reto#1" alt="java">
+   <img src="./assets/metodos.webp" width="600" title="reto#1" alt="java">
 </p>
 
 </br>

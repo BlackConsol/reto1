@@ -96,11 +96,21 @@ El resultado es un programa interactivo en consola que simula un sistema básico
 </table>
 </div>
 
+<p align="center">
+💡 Este reto es una excelente introducción al uso de métodos en Java y su aplicación práctica en programas orientados al usuario. Fomenta el pensamiento estructurado y la organización del código según sus funcionalidades.
+</p>
+
 </br>
 
 
 <br>
 <p align="center">
-💡 Este reto es una excelente introducción al uso de métodos en Java y su aplicación práctica en programas orientados al usuario. Fomenta el pensamiento estructurado y la organización del código según sus funcionalidades.
+  Hecho con ❤️ por BlackConsole / Aka. 007x86 🕵️  
+  <br>
+  <br><br>
+  rendirse no es una opcion - Aka. 007x86
+</p>
+<p align="center">
+  🚀 ¡Gracias por visitar mi perfil!
 </p>
 </br>
